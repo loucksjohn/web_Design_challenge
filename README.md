@@ -27,6 +27,6 @@ making on the actual page.
 
 I have submitted my github pages link in BootCampSpot, but I'll place it here at the end just in case you need it to access the website.
 
-[link](https://loucksjohn.github.io/web_Design_challenge/)
+[Latitude Visualization Website link ](https://loucksjohn.github.io/web_Design_challenge/)
 
 
